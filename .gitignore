@@ -1,0 +1,16 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Node / Python caches (if you add tooling later)
+node_modules/
+__pycache__/
+*.pyc
+
+# Build artifacts
+dist/
+build/
+
+# Local env files
+.env
+.env.*
